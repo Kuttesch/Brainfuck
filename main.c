@@ -8,7 +8,7 @@ void execute_brainfuck(char *buffer);
 
 int main() {
     FILE *f;
-    long fsmol;
+    long fsmol; //was ist fsmol??
     char *buffer;
     char filepath[256];
     char yn;
