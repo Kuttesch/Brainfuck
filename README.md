@@ -15,8 +15,8 @@ Brainfuck Interpreter is a simple, yet powerful tool that allows you to interpre
 To install the Brainfuck Interpreter, clone the repository and compile the `main.c` file with a C compiler of your choice.
 
 ```bash
-git clone https://github.com/Kuttesch/BrainfuckInterpreter.git
-cd BrainfuckInterpreter
+git clone https://github.com/Kuttesch/Brainfuck.git
+cd Brainfuck
 gcc main.c -o brainfuck
 ```
 
